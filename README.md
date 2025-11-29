@@ -34,5 +34,3 @@ This Jupyter notebook showcases a comprehensive restaurant dataset analysis comp
 | Common Review Words | Average (3,737), Good (3,179), Excellent (301) |
 
 This project demonstrates data cleaning, EDA, visualization, and insights extraction skills relevant for data analytics roles.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/115118182/36d64a38-d1af-4c8b-a9aa-1291d6f1c149/CognifyzTech.ipynb)
