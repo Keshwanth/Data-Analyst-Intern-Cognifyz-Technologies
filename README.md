@@ -1,4 +1,4 @@
-# CognifyzTech Restaurant Analysis
+# Cognifyz Technologies Restaurant Analysis
 
 This Jupyter notebook showcases a comprehensive restaurant dataset analysis completed as a Data Analysis Intern task for Cognifyz Technologies. It analyzes a dataset of global restaurants covering cuisines, ratings, pricing, and locations using Python, Pandas, Seaborn, and Matplotlib.[1]
 
